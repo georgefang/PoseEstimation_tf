@@ -1,10 +1,8 @@
 ####################################################
 2D & 3D Human Pose Estimation
-AvatarWorks Lab
-Huanshi Ltd.
 
 @author: Xiao-Zhi Fang
-@mail: george.fang@avatarworks.com
+@mail: georgexzfang@163.com
 
 Worked based on:
 1. Stacked Hourglass Network for Human Pose Estimation
